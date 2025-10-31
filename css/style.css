@@ -1,22 +1,22 @@
 @font-face {
-    font-family: Garamond;
-    {# src: url(EB_Garamond/static/EBGaramond-Regular.tff); #}
-    src: url(EB_Garamond/EBGaramond-VariableFont_wght.ttf);
-  }
-  body {
-    background-color: #1f1f1f;
-    color: #fff;
-    font-family: Garamond;
-    text-align: center;
-    height: 100vh;
-  }
-  h1 {
-    font-size: 5em;
-    font-weight: 500;
-  }
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 80vh;
-  }
+	font-family: Garamond;
+	src: url(../fonts/EB_Garamond/EBGaramond-VariableFont_wght.ttf)
+}
+body {
+   background-color: #1f1f1f;
+   color: #fff;
+   font-family: Garamond;
+   text-align: center;
+   height: 100vh;
+}
+h1 {
+   font-size: 5em;
+   font-weight: 500;
+}
+.container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 80vh;
+ }
+
